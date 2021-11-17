@@ -1,0 +1,13 @@
+[package]
+name = "derangement"
+version = "0.1.0"
+authors = ["ray33ee <30669752+ray33ee@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
+
+[dev-dependencies]
+rand_xoshiro = "0.6.0"
