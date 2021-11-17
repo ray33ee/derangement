@@ -1,8 +1,14 @@
 [package]
 name = "derangement"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["ray33ee <30669752+ray33ee@users.noreply.github.com>"]
 edition = "2018"
+license-file = "LICENSE"
+description = "A Rust implementation of a permutation with no fixed points, a derangement"
+homepage = "https://github.com/ray33ee/derangement"
+repository = "https://github.com/ray33ee/derangement"
+keywords = ["permutation", "derangement", "combinatorics", "mathematics", "shuffle"]
+categories = ["data-structures", "mathematics"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

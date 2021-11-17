@@ -16,6 +16,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Is there a better way to partition the shuffled set? 
  - Not sure if the current method has an even distribution (initial partition sizes may be larger than the latter ones. Though this may be offset by the fact that the list is shuffled initially)
 
+## [0.1.1] - 2021-11-17
+### Added
+- Extra fields into Cargo.toml for crates.io
+
 ## [0.1.0] - 2021-11-16
 ### Added
 - Derangement class with get, underlying map and inverse functions
